@@ -1,3 +1,21 @@
-body {
-    margin: 0 20rem;
+#nav_bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links {
+    display: inline;
+}
+
+#gmail {
+
+}
+
+#images {
+
+}
+
+#sign_in {
+    
 }
